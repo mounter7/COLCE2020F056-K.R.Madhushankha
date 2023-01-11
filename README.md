@@ -7,11 +7,11 @@
 
 ## Screenshots
 
-![ss.]("/images/Screenshot 2023-01-11 055717.png")
-![ss.]("/images/Screenshot 2023-01-11 055750.png")
-![ss.]("/images/Screenshot 2023-01-11 055822.png")
-![ss.]("/images/Screenshot 2023-01-11 055858.png")
-![ss.]("/images/Screenshot 2023-01-11 060012.png")
+![ss.](/images/Screenshot 2023-01-11 055717.png)
+![ss.](/images/Screenshot 2023-01-11 055750.png)
+![ss.](/images/Screenshot 2023-01-11 055822.png)
+![ss.](/images/Screenshot 2023-01-11 055858.png)
+![ss.](/images/Screenshot 2023-01-11 060012.png)
 
-COL/CE/2020/F/056 K.R.MADHUSHANKHA
-RavinduMadhushankha@gmail.com
+* COL/CE/2020/F/056 K.R.MADHUSHANKHA
+* RavinduMadhushankha@gmail.com
