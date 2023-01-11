@@ -2,7 +2,7 @@ Quadratic Equation
 ===============================================================================
 
 Note :
-	(*) All the frm, frx, vbp, vbw named COLCE2020F056 files are reqiured.
+	(*) All the frm, frx, vbp, vbw named COLCE2020F056 files are required.
 
 2020 2nd Year 1st Semester - ATI Colombo
 
