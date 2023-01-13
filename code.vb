@@ -34,7 +34,7 @@ End Sub
 'Result button action
 Private Sub CmdResult_Click()
     'Checking for empty Txt fields.
-    If Val(TxtA.Text) = 0 Or Val(TxtB.Text) = 0 Or Val(TxtC.Text) = 0 Then
+    If (TxtA.Text) = Empty Or (TxtB.Text) = Empty Or (TxtC.Text) = Empty Then
         LblError.Caption = "Empty text fields found! or Press TAB to go to next TexxBox."
         LblError.ForeColor = vbRed
         TxtA.SetFocus
@@ -153,7 +153,7 @@ End Function
 
 'Check is there any empty text fields
 Public Function CheckingEmpty()
-    If Val(TxtA.Text) = 0 Or Val(TxtB.Text) = 0 Or Val(TxtC.Text) = 0 Then
+    If (TxtA.Text) = Empty Or (TxtB.Text) = Empty Or (TxtC.Text) = Empty Then
         LblError.Caption = "Empty text fields found! or Press TAB to go to next TexxBox."
         LblError.ForeColor = vbRed
     End If
